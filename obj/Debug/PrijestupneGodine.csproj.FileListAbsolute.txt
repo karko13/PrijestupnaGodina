@@ -1,0 +1,7 @@
+C:\Users\rafob\source\repos\PrijestupneGodine\bin\Debug\PrijestupneGodine.exe.config
+C:\Users\rafob\source\repos\PrijestupneGodine\bin\Debug\PrijestupneGodine.exe
+C:\Users\rafob\source\repos\PrijestupneGodine\bin\Debug\PrijestupneGodine.pdb
+C:\Users\rafob\source\repos\PrijestupneGodine\obj\Debug\PrijestupneGodine.csproj.AssemblyReference.cache
+C:\Users\rafob\source\repos\PrijestupneGodine\obj\Debug\PrijestupneGodine.csproj.CoreCompileInputs.cache
+C:\Users\rafob\source\repos\PrijestupneGodine\obj\Debug\PrijestupneGodine.exe
+C:\Users\rafob\source\repos\PrijestupneGodine\obj\Debug\PrijestupneGodine.pdb
